@@ -24,7 +24,7 @@ server:
 spring:
  profiles: prod # 生产环境
  application:
- name: microservice-config-eureka
+  name: microservice-config-eureka
 eureka:
  instance:
   hostname: eureka6001.com
